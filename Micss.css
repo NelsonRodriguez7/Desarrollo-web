@@ -1,0 +1,59 @@
+
+
+header {
+    background-color: #EEEDEB;
+    width: 100%;
+    padding: 0px;
+}
+
+.Perfil {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    margin-left: 30px;
+}
+
+.colores-letras{
+    color: #747264;
+}
+
+.centrado{
+    text-align: justify;
+    margin-left: 20px;
+}
+
+p {
+    text-align: justify;
+}
+
+footer {
+    background-color: #EEEDEB;
+}
+
+table {
+    table-layout: fixed;
+    width: 90%;
+    border-collapse: collapse;
+    border: 3px solid #747264 ;
+  }
+  
+  thead th:nth-child(1) {
+    width: 30%;
+  }
+  
+  thead th:nth-child(2) {
+    width: 20%;
+  }
+  
+  thead th:nth-child(3) {
+    width: 15%;
+  }
+  
+  thead th:nth-child(4) {
+    width: 35%;
+  }
+  
+  th,
+  td {
+    padding: 20px;
+  }
